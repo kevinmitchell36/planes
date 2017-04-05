@@ -1,0 +1,1 @@
+json.partial! 'plane.json.jbuilder', plane: @plane

@@ -1,4 +1,4 @@
-class PlanesController < ApplicationController
+class Api::V2::PlanesController < ApplicationController
   def index
     @planes = Plane.all
     render "index.json.jbuilder"

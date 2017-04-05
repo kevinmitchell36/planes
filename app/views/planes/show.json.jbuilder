@@ -1,1 +1,0 @@
-json patial! 'plane.json.jbuilder', plane: @plane
